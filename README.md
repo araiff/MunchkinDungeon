@@ -1,5 +1,5 @@
 # MunchkinDungeon
-Munchkin Dungeon crawler in python 2.7
+Munchkin Dungeon crawler Version 1.0 in python 2.7
 
 Created to learn python, inspired by "Learn Python the Hard Way" Exercise 36
 
